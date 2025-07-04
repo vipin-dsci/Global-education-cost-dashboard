@@ -47,7 +47,6 @@ The report consists of **2 main pages** and **6 tooltip pages**:
 - `dashboard_screenshot`: Global education cost dash board page 1, Global education cost dash board page 2
 ### Page 1 Preview
 ![Overview](Global_education_cost_dashboard_page1.jpg)
-
 ### Page 2 Preview
 ![Program Cost](Global_education_cost_dashboard_page2.jpg)
 
@@ -59,5 +58,3 @@ The report consists of **2 main pages** and **6 tooltip pages**:
 - Identify affordable and premium programs across regions.
 
 ---
-
-Feel free to clone the repo and customize the dashboard to suit your own analysis needs. 📈
