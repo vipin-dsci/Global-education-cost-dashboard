@@ -53,7 +53,7 @@ The report consists of **2 main pages** and **6 tooltip pages**:
 ## 📁 Files in This Repo
 
 - Cleaned_International_edu_cost.csv : Dataset
--`Global_Education_Cost_Dashboard.pbix`: Power BI dashboard file
+- `Global_Education_Cost_Dashboard.pbix`: Power BI dashboard file
 - Global_education_cost_dashboard_page1.jpg : Screenshot
 - Global_education_cost_dashboard_page2.jpg : Screenshot
 ### Page 1 Preview
