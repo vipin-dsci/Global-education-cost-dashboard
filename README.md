@@ -43,7 +43,7 @@ The report consists of **2 main pages** and **6 tooltip pages**:
 ## 📁 Cleaned Dataset
 
 - The cleaned dataset used for this dashboard is available here:  
-  [`cleaned_education_cost_data.csv`](cleaned_education_cost_data.csv)
+  [`cleaned_education_cost_data.csv`](Cleaned_International_edu_cost.csv)
 
 ### Cleaning Summary:
 - Removed rows with `0` values
