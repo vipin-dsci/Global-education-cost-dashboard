@@ -45,6 +45,12 @@ The report consists of **2 main pages** and **6 tooltip pages**:
 
 - `Global_Education_Cost_Dashboard.pbix`: Power BI dashboard file
 - `dashboard_screenshot`: Global education cost dash board page 1, Global education cost dash board page 2
+### Page 1 Preview
+![Overview](Global education cost dash board page 1.jpg)
+
+### Page 2 Preview
+![Program Cost](Global education cost dash board page 2.jpg)
+
 
 ## 🧠 Key Insights
 
