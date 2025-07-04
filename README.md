@@ -39,12 +39,21 @@ The report consists of **2 main pages** and **6 tooltip pages**:
 
 ## 🗂 Dataset Source
 
-- Kaggle Dataset: (https://www.kaggle.com/datasets/adilshamim8/cost-of-international-education)
+- Orginal dataset from Kaggle: (https://www.kaggle.com/datasets/adilshamim8/cost-of-international-education)
+## 📁 Cleaned Dataset
+
+- The cleaned dataset used for this dashboard is available here:  
+  [`cleaned_education_cost_data.csv`](./cleaned_education_cost_data.csv)
+
+### Cleaning Summary:
+- Removed rows with `0` values
+- Filtered incomplete or null entries.
+- Standardized column formatting and ensured numeric consistency.
 
 ## 📁 Files in This Repo
 
 - `Global_Education_Cost_Dashboard.pbix`: Power BI dashboard file
-- `dashboard_screenshot`: Global education cost dash board page 1, Global education cost dash board page 2
+- 
 ### Page 1 Preview
 ![Overview](Global_education_cost_dashboard_page1.jpg)
 ### Page 2 Preview
